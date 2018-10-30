@@ -14,6 +14,7 @@ namespace ProyectoMatrix
         [STAThread]
         static void Main()
         {
+            //probando 
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
             Application.Run(new Form1());
